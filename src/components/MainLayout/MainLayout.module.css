@@ -1,0 +1,7 @@
+.children {
+    padding: var(--horizontal-spacing);
+}
+
+.footer {
+    padding: var(--horizontal-spacing);
+}

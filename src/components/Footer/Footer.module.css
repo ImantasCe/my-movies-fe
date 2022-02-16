@@ -1,0 +1,12 @@
+.footer {
+    align-items: center;
+    background-color: var(--secondary-color);
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    margin: 0 -50px;
+}
+
+.footerLink {
+    text-decoration: none;
+}
